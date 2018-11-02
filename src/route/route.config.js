@@ -1,6 +1,6 @@
 /** Components */
 import Home from "../components/Home/Home";
-import Fragments from "../components/Fragments";
+import Fragments from "../components/Fragments/Fragments";
 import List from "../components/List/List";
 
 /** Route config */
