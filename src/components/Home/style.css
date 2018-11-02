@@ -1,0 +1,9 @@
+.input-section {
+  width: 80%;
+}
+.form-control {
+  height: calc(1.5rem + 2px);
+  padding: 0.175rem 0rem;
+  border: 0;
+  border-bottom: 1px solid #ced4da;
+}
