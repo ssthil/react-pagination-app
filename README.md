@@ -1,9 +1,9 @@
 
-### React App with Tabs and Pagination
+## React App with Tabs and Pagination
 
 Built responsive react app using bootstrap and consumed data from `https://jsonplaceholder.typicode.com/posts` to display data with pagination.
 
-## Folder Structure
+### Folder Structure
 
 This project would look like this:
 
@@ -50,7 +50,7 @@ react-pagination-app/
     logo.svg
 ```
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
