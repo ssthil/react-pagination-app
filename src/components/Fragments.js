@@ -74,18 +74,6 @@ class Fragments extends Component {
                 <p>this service B-2 calling your name</p>
               </div>
             </Tabs>
-            {/* <Tabs
-              activeTab={this.state.activeTab}
-              changeTab={this.handleClick}
-            />
-            <div className="tab-content" id="nav-tabContent">
-              <div class="tab-pane fade show active" id="tab1">
-                Tab 1
-              </div>
-              <div class="tab-pane fade" id="tab2">
-                Tab 2
-              </div>
-            </div> */}
           </div>
         </div>
       </div>
