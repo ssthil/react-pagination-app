@@ -66,12 +66,12 @@ class Fragments extends Component {
               <div label="B1-Tab">
                 <p className="heading">Hi</p>
                 <p className="name-tag">{this.state.name}</p>
-                <p>this servic B-1 calling your name</p>
+                <p>this service B-1 calling your name</p>
               </div>
               <div label="B2-Tab">
                 <p className="heading">Hi</p>
                 <p className="name-tag">{this.state.name}</p>
-                <p>this servic B-2 calling your name</p>
+                <p>this service B-2 calling your name</p>
               </div>
             </Tabs>
             {/* <Tabs
